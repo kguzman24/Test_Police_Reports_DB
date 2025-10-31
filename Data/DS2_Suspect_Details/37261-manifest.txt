@@ -1,0 +1,192 @@
+File Manifest for ICPSR 37261
+
+Zweig, Janine M., and Kelly Walsh. Evidence, Sexual Assaults, and Case
+Outcomes: Understanding the Role of Sexual Assault Kits, Non-Forensic
+Evidence, and Case Characteristics, 2015-2017. ICPSR37261-v1. Ann Arbor,
+MI: Inter-university Consortium for Political and Social Research
+[distributor], 2020-03-31. http://doi.org/10.3886/ICPSR37261.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37261-descriptioncitation.pdf       -       -         -       2020-03-31  -
+
+    37261-related_literature.txt        -       -         -       daily       -
+
+    37261-manifest.txt                  -       -         -       daily       -
+
+    37261-User_guide-ICPSR.pdf          -       -         -       2020-03-31  d9291ea7819326f8f3271df7175abab5
+
+
+DS0001 Case Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37261-0001-Codebook-ICPSR.pdf       -       -         -       2020-03-31  0e3faf38927ca30ff89df802f66f2678
+
+    37261-0001-Data.dta                 -       259       6       2020-03-31  a195731cf443baddee68437c686c4ea2
+
+    37261-0001-Data.rda                 -       259       6       2020-03-31  c4510c6465eba3335e7d3d7196948e36
+
+    37261-0001-Data.sav                 -       259       6       2020-03-31  fae4df36282dcdf48250c8d2dc1f4222
+
+    37261-0001-Data.stc                 -       259       6       2020-03-31  d68f043c58332ff395d76d9c24ace9c0
+
+    37261-0001-Data.tsv                 -       259       6       2020-03-31  f033993d096075c524a9caf27f9fce18
+
+    37261-0001-Data.txt                 9       259       6       2020-03-31  48c767e433f1dabeceb0fe94f806bedd
+
+    37261-0001-Setup.dct                -       -         -       2020-03-31  6fb68239ef65c408af30cf859db8758b
+
+    37261-0001-Setup.do                 -       -         -       2020-03-31  471710d85b853e6950035a0e45907e50
+
+    37261-0001-Setup.sas                -       -         -       2020-03-31  e420593eeac12a0a9d6cbab32a3e98b4
+
+    37261-0001-Setup.sps                -       -         -       2020-03-31  d89f5a73e32f3635e16241c47bbc1218
+
+
+DS0002 Suspect Level Case Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37261-0002-Codebook-ICPSR.pdf       -       -         -       2020-03-31  b045d0d03e84c6140b4035198a7557ab
+
+    37261-0002-Codebook-PI.pdf          -       -         -       2020-03-31  c559954972da0a0b4dc8c07b7ee15b65
+
+    37261-0002-Data.dta                 -       534       331     2020-03-31  12ae2f7f05b150989ad8072ad0b9a27e
+
+    37261-0002-Data.rda                 -       534       331     2020-03-31  142273f97f61db386c0dd91adfdc2764
+
+    37261-0002-Data.sav                 -       534       331     2020-03-31  f11f1e16b2d7241d1fb019cc94fab3c2
+
+    37261-0002-Data.stc                 -       534       331     2020-03-31  31d227b6ee8bc1c3a939d7903b377602
+
+    37261-0002-Data.tsv                 -       534       331     2020-03-31  3b2fe568273262fe1c9589c060da0b33
+
+    37261-0002-Data.txt                 746     534       331     2020-03-31  4e362d7f9d8f11da00dbab9122766a66
+
+    37261-0002-Setup.dct                -       -         -       2020-03-31  0348e620adc5ba325052c6bf4e3fbbb8
+
+    37261-0002-Setup.do                 -       -         -       2020-03-31  8c149ba3495b95c55bb297724799fbd0
+
+    37261-0002-Setup.sas                -       -         -       2020-03-31  7675f84a32c484c53444bc205b95ca94
+
+    37261-0002-Setup.sps                -       -         -       2020-03-31  63c4cfae3687d1d14eadfda2c9aaf677
+
+
+DS0003 Initial Charges Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37261-0003-Codebook-ICPSR.pdf       -       -         -       2020-03-31  4512585bf843849cf6ba6602aae69bca
+
+    37261-0003-Data.dta                 -       463       238     2020-03-31  d353668aed8be76c890fbe7b6f4e6f8d
+
+    37261-0003-Data.rda                 -       463       238     2020-03-31  d947ce7fd328383b7c924b80e82f9ad8
+
+    37261-0003-Data.sav                 -       463       238     2020-03-31  97726bd4c735f84c26cfd51861ac6c4f
+
+    37261-0003-Data.stc                 -       463       238     2020-03-31  355487bb746c1f0b95e6a757e0ef61f2
+
+    37261-0003-Data.tsv                 -       463       238     2020-03-31  dcf63493c05a8a681a8c07dce8afdaba
+
+    37261-0003-Data.txt                 476     463       238     2020-03-31  e8bacc1998d083bbdf8bb7d85c33a12c
+
+    37261-0003-Setup.dct                -       -         -       2020-03-31  73bad81fd7e93bce10b6d72257415e94
+
+    37261-0003-Setup.do                 -       -         -       2020-03-31  39fe23d8a7df65ecc3e3e49e50175d2a
+
+    37261-0003-Setup.sas                -       -         -       2020-03-31  1efcd7f6d231f797d4e397f38d4df4cf
+
+    37261-0003-Setup.sps                -       -         -       2020-03-31  bc993d496c1c0d8cd0c45f754a66f2d8
+
+
+DS0004 Indictment Charges Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37261-0004-Codebook-ICPSR.pdf       -       -         -       2020-03-31  b8a57414d8a4b5e34eda3bdb69802174
+
+    37261-0004-Data.dta                 -       160       6       2020-03-31  9d4f7ffaeeb3fd6489aee62b1b029625
+
+    37261-0004-Data.rda                 -       160       6       2020-03-31  9bd217fec62752a38551079a4f81b636
+
+    37261-0004-Data.sav                 -       160       6       2020-03-31  c1563cce478b93ad10042e99f2635a0e
+
+    37261-0004-Data.stc                 -       160       6       2020-03-31  fb0075dff8acffc9b69d46020c6fc68d
+
+    37261-0004-Data.tsv                 -       160       6       2020-03-31  f1fd9bd8b9b9498f3dd9042217f41b85
+
+    37261-0004-Data.txt                 10      160       6       2020-03-31  37e811b98c4059ebbee80782cfd4fc81
+
+    37261-0004-Setup.dct                -       -         -       2020-03-31  126362dd7f1b86891df500b0a6baa91a
+
+    37261-0004-Setup.do                 -       -         -       2020-03-31  3bd3dca99c8dc190c5fef31ca2a21d1a
+
+    37261-0004-Setup.sas                -       -         -       2020-03-31  fb2944dc8fb5de85bcd949ddab2f24eb
+
+    37261-0004-Setup.sps                -       -         -       2020-03-31  d4774e558816710e1c225eb93d0108ef
+
+
+DS0005 Arrest Charges Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37261-0005-Codebook-ICPSR.pdf       -       -         -       2020-03-31  cd592a12f9cc95c5c6dfbfefa2abf9a9
+
+    37261-0005-Data.dta                 -       215       6       2020-03-31  80ddbcc7d6706ac191dc89ffef7843b7
+
+    37261-0005-Data.rda                 -       215       6       2020-03-31  c71d85072005178568c3389943f6c97a
+
+    37261-0005-Data.sav                 -       215       6       2020-03-31  93589638568d33f459f4c1f57135c077
+
+    37261-0005-Data.stc                 -       215       6       2020-03-31  cadc7df91b685f45f1b7e1d723ecc864
+
+    37261-0005-Data.tsv                 -       215       6       2020-03-31  48cede6c4be7a185c2fdaf4d6374a39c
+
+    37261-0005-Data.txt                 10      215       6       2020-03-31  d8851f4fa7eb0a9604f37a4ca872e7d1
+
+    37261-0005-Setup.dct                -       -         -       2020-03-31  b8f0b24da5cd11ec30d4896df1360263
+
+    37261-0005-Setup.do                 -       -         -       2020-03-31  1edddff5de18f872daa1247ef6ad544e
+
+    37261-0005-Setup.sas                -       -         -       2020-03-31  3c04303ebd6fd9f0b31445117e3d209e
+
+    37261-0005-Setup.sps                -       -         -       2020-03-31  fc0ff54d34baf611d4e660078a16a7c7
+
+
+DS0006 Conviction Charges Data
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    37261-0006-Codebook-ICPSR.pdf       -       -         -       2020-03-31  30c93528bbab7148f3a2a3023fb17ac4
+
+    37261-0006-Data.dta                 -       664       5       2020-03-31  f0897ae74081bdb1609fefdefa70b952
+
+    37261-0006-Data.rda                 -       664       5       2020-03-31  0c8f300c4a2deca22c64b5e6717931b4
+
+    37261-0006-Data.sav                 -       664       5       2020-03-31  0f238aca4dfee5fb42f5577e9bf7d827
+
+    37261-0006-Data.stc                 -       664       5       2020-03-31  cb700d6707255b3016f6d000cb7da37e
+
+    37261-0006-Data.tsv                 -       664       5       2020-03-31  795458bde8730873abafdc983a9a5996
+
+    37261-0006-Data.txt                 8       664       5       2020-03-31  27467a74fec6fd7c1ca48de7c3ca468f
+
+    37261-0006-Setup.dct                -       -         -       2020-03-31  05416d324906e89fb606c91c90ebe5e8
+
+    37261-0006-Setup.do                 -       -         -       2020-03-31  cc146a204190c06275fc488db703a22b
+
+    37261-0006-Setup.sas                -       -         -       2020-03-31  fce382d0373080e7c183e0564fb3f5ee
+
+    37261-0006-Setup.sps                -       -         -       2020-03-31  61b6c325f4012666df9ba4902455724c
+
